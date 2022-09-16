@@ -5,6 +5,6 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Goedemorgen Broeders en Zusters. Het is heel fijn om jullie alleman te zien!\n";
 }
 
