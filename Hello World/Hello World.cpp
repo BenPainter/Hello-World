@@ -3,8 +3,10 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Goedemorgen Broeders en Zusters. Het is heel fijn om jullie alleman te zien!\n";
+    cout << "Goedemorgen Broeders en Zusters. Het is heel fijn om jullie alleman te zien!\n";
 }
 
